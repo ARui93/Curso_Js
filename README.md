@@ -53,6 +53,3 @@ Você também pode jogar o jogo online através do seguinte link: [Jogo do Núme
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
 
----
-
-Assim, os usuários podem acessar o jogo diretamente online ou seguir as instruções para executar localmente.
