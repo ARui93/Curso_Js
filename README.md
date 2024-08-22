@@ -1,3 +1,7 @@
+Claro! Aqui está a versão atualizada do README.md com o link para o site onde o jogo pode ser jogado:
+
+---
+
 # Jogo do Número Secreto
 
 Este é um simples jogo de adivinhação de números implementado em JavaScript, HTML e CSS. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente entre 1 e 10. O jogo fornece dicas se o número adivinhado é maior ou menor que o número secreto até que o jogador acerte.
@@ -9,7 +13,7 @@ Este é um simples jogo de adivinhação de números implementado em JavaScript,
 - **Mensagens de Voz:** As mensagens do jogo são exibidas na tela e também narradas utilizando a API `responsiveVoice`.
 - **Reinício do Jogo:** Após acertar o número, o jogador pode reiniciar o jogo para tentar novamente.
 
-## Como Jogar
+## Como Jogar  
 
 1. O jogo começa com uma mensagem pedindo para você escolher um número entre 1 e 10.
 2. Insira o número no campo de input e clique no botão "Chutar".
@@ -37,11 +41,18 @@ Este é um simples jogo de adivinhação de números implementado em JavaScript,
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+   git clone https://github.com/ARui93/Curso_Js.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
+
+## Jogue Online
+
+Você também pode jogar o jogo online através do seguinte link: [Jogo do Número Secreto](https://jogo-pink-theta.vercel.app/)
 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
 
+---
+
+Assim, os usuários podem acessar o jogo diretamente online ou seguir as instruções para executar localmente.
