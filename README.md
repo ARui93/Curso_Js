@@ -1,7 +1,3 @@
-Claro! Aqui está a versão atualizada do README.md com o link para o site onde o jogo pode ser jogado:
-
----
-
 # Jogo do Número Secreto
 
 Este é um simples jogo de adivinhação de números implementado em JavaScript, HTML e CSS. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente entre 1 e 10. O jogo fornece dicas se o número adivinhado é maior ou menor que o número secreto até que o jogador acerte.
